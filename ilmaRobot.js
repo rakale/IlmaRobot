@@ -71,5 +71,5 @@ var url = "http://api.openweathermap.org/data/2.5/weather?q=Tallinn&APPID=72c567
     }
   }
 
-  setInterval(GetData, 1000 * 60 * 60);
+  setInterval(GetData, 1000 * 60);
   
